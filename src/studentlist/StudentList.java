@@ -37,6 +37,7 @@ public class StudentList {
        {
           System.out.println(list[i].getName()+ " "+list[i].getSid());
        }
+       // hello
         
     }
     
