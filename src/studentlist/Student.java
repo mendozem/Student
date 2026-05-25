@@ -4,6 +4,8 @@
  */
 package studentlist;
 
+// This is a branch code - copied code
+
 /** entity 
  *
  * @author sivagamasrinivasan
@@ -11,8 +13,8 @@ package studentlist;
 public class Student // model the student raw data
 {
     private String name; // variables private 
-   private int sid; // principle "encapsulation"
-private int sem;
+    private int sid; // principle "encapsulation"
+    private int sem;
     /**
      * @return the name
      */
