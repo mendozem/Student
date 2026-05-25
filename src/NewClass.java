@@ -8,6 +8,7 @@
  * @author vegan
  */
 public class NewClass {
+    private String name;
     private int sid;
 
     /**
@@ -23,5 +24,4 @@ public class NewClass {
     public void setName(String name) {
         this.name = name;
     }
-    private String name;
 }
