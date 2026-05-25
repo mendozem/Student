@@ -8,7 +8,6 @@
  * @author vegan
  */
 public class NewClass {
-    private String name;
     private int sid;
 
     /**
