@@ -10,6 +10,7 @@
 public class NewClass {
     private String name;
     private int sid;
+    private int sem;
 
     /**
      * @return the name
